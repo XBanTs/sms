@@ -1,4 +1,6 @@
 # sms
+MAKE SURE TO CHECK OUT 'HOW TO LAUNCH APPLICATION' FILE
+
 I developed this project using the following:
 
 XAMPP as my local webserver
